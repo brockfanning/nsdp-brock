@@ -199,3 +199,14 @@ breadcrumbs:
 disclaimer:
   phase: My phase
   message: This is my message.
+
+goals_page:
+  title: My goals page
+  description: Vivamus tincidunt ante eu interdum luctus. Sed quam ligula, dignissim rhoncus est quis,
+    volutpat ultricies massa. Pellentesque vitae arcu orci. Praesent nec purus ut nisl finibus rhoncus.
+    Donec consequat augue vitae ligula gravida scelerisque. In mollis, leo nec rutrum fringilla, est turpis
+    malesuada mauris, id placerat nibh odio eu nisl. Sed a tempor mauris, eu varius mauris. Vestibulum
+    posuere diam vitae interdum pulvinar. Fusce dignissim eros ac purus blandit feugiat. Donec luctus arcu
+    nulla, in efficitur enim varius ac. Mauris ipsum nibh, venenatis nec mauris sed, hendrerit egestas metus.
+    Maecenas non ex turpis. Sed nec quam ut dui volutpat venenatis quis a quam. Fusce ut laoreet urna. Fusce
+    commodo, tellus ac scelerisque suscipit, nibh felis porttitor massa, ac pellentesque lorem purus eu lacus. 
